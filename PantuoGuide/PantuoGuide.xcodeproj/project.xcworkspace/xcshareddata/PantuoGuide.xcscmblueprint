@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "54f199ab-79d8-46c3-a258-b27723bf8302++32",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "54f199ab-79d8-46c3-a258-b27723bf8302++32" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "54f199ab-79d8-46c3-a258-b27723bf8302++32" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7A069BFC-9C44-4366-9C77-3EF6C4C335AC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "54f199ab-79d8-46c3-a258-b27723bf8302++32" : "PantuoGuide\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PantuoGuide",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "PantuoGuide.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/svn.gravitas.com.hk\/opt\/svnrepos\/iPhone\/Swarovski",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "54f199ab-79d8-46c3-a258-b27723bf8302++32"
+    }
+  ]
+}
